@@ -73,3 +73,60 @@ Podría provocar la pérdida de archivos importantes, documentos escolares, foto
 - No descargar archivos de sitios desconocidos.
 - Evitar abrir enlaces o archivos sospechosos.
 - Mantener actualizado el sistema operativo.
+
+# Parte C. Caso práctico: Seguridad en una escuela
+
+### 1. Identifiquen cinco riesgos de seguridad informática que podrían existir en esta institución.
+
+1. Virus informáticos: las computadoras podrían infectarse al descargar archivos sospechosos.
+2. Robo de contraseñas: alguien podría obtener las contraseñas de docentes o estudiantes.
+3. Acceso no autorizado: personas ajenas podrían ingresar a la red Wi-Fi o a la plataforma educativa.
+4. Pérdida de información: se podrían borrar o dañar archivos importantes de la escuela.
+5. Robo de datos personales: podrían filtrarse nombres, direcciones, teléfonos y otros datos de los estudiantes.
+
+### 2. Propongan una medida preventiva para cada riesgo.
+
+1. Instalar y actualizar un antivirus.
+2. Utilizar contraseñas seguras y diferentes para cada cuenta.
+3. Proteger la red Wi-Fi con una contraseña segura.
+4. Realizar copias de seguridad periódicamente.
+5. Limitar el acceso a la información personal solamente al personal autorizado.
+
+### 3. Expliquen cómo protegerían la información personal de los estudiantes.
+
+Protegeríamos la información utilizando contraseñas seguras, limitando el acceso únicamente a las personas autorizadas y evitando compartir datos personales sin permiso. También realizaríamos copias de seguridad, utilizaríamos sistemas de protección y mantendríamos actualizados los equipos y programas.
+
+### 4. Elaboren cinco reglas de seguridad informática que deberían respetar todos los integrantes de la institución.
+
+1. No compartir las contraseñas con otras personas.
+2. No abrir enlaces ni archivos de correos sospechosos.
+3. Utilizar contraseñas seguras y cambiarlas cuando sea necesario.
+4. No instalar programas ni descargar archivos de páginas desconocidas.
+5. Cerrar sesión al terminar de utilizar una computadora y no compartir información personal sin autorización.
+
+# Parte D. Producción propia
+
+
+# 🔐 Navegar seguros también depende de nosotros
+
+### Eslogan:
+
+**"Pensá antes de hacer clic, protegé tus datos y navegá con seguridad".**
+
+### 5 recomendaciones para navegar de forma segura
+
+1. **Usar contraseñas seguras:** crear contraseñas difíciles de adivinar y no compartirlas con nadie.
+2. **No abrir enlaces sospechosos:** evitar ingresar a páginas desconocidas o hacer clic en mensajes extraños.
+3. **Proteger los datos personales:** no compartir direcciones, teléfonos, contraseñas ni información privada en internet.
+4. **Mantener los dispositivos actualizados:** instalar las actualizaciones y utilizar un antivirus.
+5. **Cerrar sesión:** especialmente cuando utilizamos computadoras compartidas o de la escuela.
+
+### ⚠️ ¡Cuidado con las amenazas informáticas!
+
+El phishing es una amenaza que utiliza mensajes o correos falsos para engañar a las personas y robar sus contraseñas y datos personales. Nunca ingreses información privada en enlaces sospechosos.
+
+### Reflexión final
+
+Es importante proteger nuestros datos porque en internet existen muchos peligros. Debemos navegar con responsabilidad, cuidar nuestra información y pensar antes de compartir o hacer clic en algo. La seguridad informática depende de todos nosotros.
+
+
