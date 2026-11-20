@@ -1,4 +1,9 @@
 # seguridad-inform-tica-Heredia-Martina
+## Datos del estudiante
+- Nombre y apellido: Martina Heredia
+- Curso: 5to A
+- Materia: Desarrollo de Soluciones Digitales
+
 # 1.¿Qué es la seguridad informática y cuál es su importancia?
 La seguridad informática es el conjunto de medidas y prácticas que protegen los sistemas, datos y redes frente a accesos no autorizados, ataques o daños. Es importante porque ayuda a mantener la privacidad, evitar pérdidas de información y asegurar el funcionamiento correcto de equipos y servicios digitales.
 
