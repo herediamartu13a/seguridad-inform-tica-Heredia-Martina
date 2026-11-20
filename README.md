@@ -32,7 +32,7 @@ Black Hat: Son hackers malintencionados que explotan vulnerabilidades para causa
 Las copias de seguridad protegen tus datos ante pérdidas por fallos técnicos, ataques de malware o errores humanos, permitiendo recuperar la información y mantener la continuidad de tu trabajo o actividad.
 ## Parte B. Análisis de situaciones
 
-### Situación 1: El correo sospechoso
+### Situación 1: 
 
 # a. ¿Qué amenaza informática podría estar presente?
 
