@@ -23,8 +23,53 @@ Al menos 8 caracteres (mejor más).
 Combinación de letras mayúsculas, minúsculas, números y símbolos.
 No usar nombres, fechas ni palabras fáciles de adivinar.
 Ser única para cada cuenta.
+
 # 7. ¿Qué diferencia existe entre un hacker White Hat y un Black Hat?
 White Hat: Son hackers éticos que buscan encontrar vulnerabilidades para mejorar la seguridad y proteger a las personas.
 Black Hat: Son hackers malintencionados que explotan vulnerabilidades para causar daño o beneficio propio.
+
 # 8. ¿Por qué es importante realizar copias de seguridad?
 Las copias de seguridad protegen tus datos ante pérdidas por fallos técnicos, ataques de malware o errores humanos, permitiendo recuperar la información y mantener la continuidad de tu trabajo o actividad.
+## Parte B. Análisis de situaciones
+
+### Situación 1: El correo sospechoso
+
+# a. ¿Qué amenaza informática podría estar presente?
+
+Podría tratarse de un ataque de phishing, en el que los delincuentes intentan engañar al usuario para robar sus datos personales y contraseñas.
+
+# b. ¿Qué debería hacer el estudiante?
+No debe ingresar al enlace ni proporcionar su contraseña. Debe eliminar el correo o marcarlo como sospechoso y verificar su cuenta desde la página oficial de Google.
+
+# c. ¿Qué podría suceder si ingresa sus datos?
+Los delincuentes podrían robar su contraseña, acceder a su cuenta, obtener información personal y utilizarla para cometer fraudes.
+
+### Situación 2: 
+# a. ¿Qué errores de seguridad está cometiendo?
+- Utiliza la misma contraseña para varias cuentas.
+- Comparte su contraseña con otra persona.
+- No protege adecuadamente sus cuentas personales.
+
+# b. ¿Qué consecuencias podría tener?
+Si alguien descubre su contraseña, podría acceder a todas sus cuentas, robar información, hacerse pasar por él o modificar sus datos.
+
+# c. ¿Qué medidas debería implementar?
+- Utilizar contraseñas diferentes y seguras para cada cuenta.
+- No compartir sus contraseñas con nadie.
+- Activar la verificación en dos pasos.
+- Cambiar las contraseñas que ya compartió.
+
+### Situación 3: 
+# a. ¿Qué tipo de amenaza podría ser?
+Podría tratarse de un ransomware, un programa malicioso que bloquea o cifra los archivos y exige dinero para recuperarlos.
+
+# b. ¿Qué daños podría provocar?
+Podría provocar la pérdida de archivos importantes, documentos escolares, fotografías e información personal. También podría afectar el funcionamiento de la computadora.
+
+# c. ¿Qué medidas permitirían prevenir esta situación?
+
+- Instalar y mantener actualizado un antivirus.
+- Realizar copias de seguridad de los archivos.
+- No descargar archivos de sitios desconocidos.
+- Evitar abrir enlaces o archivos sospechosos.
+- Mantener actualizado el sistema operativo.
