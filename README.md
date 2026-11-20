@@ -4,6 +4,8 @@
 - Curso: 5to A
 - Materia: Desarrollo de Soluciones Digitales
 
+# ## Parte A - Investigación
+
 # 1.¿Qué es la seguridad informática y cuál es su importancia?
 La seguridad informática es el conjunto de medidas y prácticas que protegen los sistemas, datos y redes frente a accesos no autorizados, ataques o daños. Es importante porque ayuda a mantener la privacidad, evitar pérdidas de información y asegurar el funcionamiento correcto de equipos y servicios digitales.
 
@@ -79,7 +81,7 @@ Podría provocar la pérdida de archivos importantes, documentos escolares, foto
 - Evitar abrir enlaces o archivos sospechosos.
 - Mantener actualizado el sistema operativo.
 
-# Parte C. Caso práctico: Seguridad en una escuela
+# Parte C: Seguridad en una escuela
 
 ### 1. Identifiquen cinco riesgos de seguridad informática que podrían existir en esta institución.
 
